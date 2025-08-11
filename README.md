@@ -14,3 +14,6 @@
 | 10 | [Regex Matching](https://leetcode.com/problems/regular-expression-matching/) | Hard | [Python](strings/regex-matching.py) | ✅ |
 | 11 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [Python](math/palindrome-number.py) | ✅ |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [Python](arrays/container-with-most-water.py) | ✅ |
+| 12 | [Three Sum Closest](https://leetcode.com/problems/3sum-closest/) | Medium | [Python](arrays/three-sum-closest.py) | ✅ |
+| 12 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | [Python](backtracking/letter-combinations.py) | ✅ |
+| 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | [Python](math/integer-to-roman.py) | ✅ |
