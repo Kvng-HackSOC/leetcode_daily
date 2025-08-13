@@ -19,3 +19,6 @@
 | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | Medium | [Python](math/integer-to-roman.py) | ✅ |
 | 13 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | [Python](backtracking/generate-parentheses.py) | ✅ |
 | 13 | [4Sum](https://leetcode.com/problems/4sum/) | Medium | [Python](arrays/four-sum.py) | ✅ |
+| 14 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | [Python](linked-lists/merge-k-sorted-lists.py) | ✅ |
+| 14 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | Medium | [Python](math/divide-two-integers.py) | ✅ |
+| 14 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | [Python](arrays/search-in-rotated-sorted-array.py) | ✅ |
