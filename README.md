@@ -22,3 +22,7 @@
 | 14 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | [Python](linked-lists/merge-k-sorted-lists.py) | ✅ |
 | 14 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | Medium | [Python](math/divide-two-integers.py) | ✅ |
 | 14 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | [Python](arrays/search-in-rotated-sorted-array.py) | ✅ |
+| 15 |  |  |  |  |
+| 16 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | Medium | [Python](arrays/next-permutation.py) | ✅ |
+| 16 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | Hard | [Python](strings/substring-with-concatenation.py) | ✅ |
+| 16 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | Hard | [Python](strings/longest-valid-parentheses.py) | ✅ |
