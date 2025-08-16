@@ -26,3 +26,5 @@
 | 16 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | Medium | [Python](arrays/next-permutation.py) | ✅ |
 | 16 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | Hard | [Python](strings/substring-with-concatenation.py) | ✅ |
 | 16 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | Hard | [Python](strings/longest-valid-parentheses.py) | ✅ |
+| 17 | [Search for a Range](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | [Python](arrays/search-for-a-range.py) | Finds the first and last index of a target value in a sorted array using binary search. ✅ |
+| 17 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | Medium | [Python](arrays/next-permutation.py) | Modifies an array in-place to the next lexicographical permutation. ✅ |
