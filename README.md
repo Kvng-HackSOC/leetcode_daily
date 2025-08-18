@@ -30,3 +30,4 @@
 | 18 | [Search for a Range](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | [Python](arrays/search-for-a-range.py) | Finds the first and last index of a target value in a sorted array using binary search. ✅ |
 | 18 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | [Python](arrays/valid-sudoku.py) | Checks if a partially filled 9×9 Sudoku board is valid according to Sudoku rules. ✅ |
 | 18 | [Solve Sudoku](https://leetcode.com/problems/sudoku-solver/) | Hard | [Python](backtracking/solve-sudoku.py) | Solves a 9×9 Sudoku board using backtracking. ✅ |
+| 19 | [Count and Say](https://leetcode.com/problems/count-and-say/) | Medium | [Python](strings/count-and-say.py) | ✅ |
