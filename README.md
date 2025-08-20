@@ -31,3 +31,5 @@
 | 18 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | [Python](arrays/valid-sudoku.py) | Checks if a partially filled 9×9 Sudoku board is valid according to Sudoku rules. ✅ |
 | 18 | [Solve Sudoku](https://leetcode.com/problems/sudoku-solver/) | Hard | [Python](backtracking/solve-sudoku.py) | Solves a 9×9 Sudoku board using backtracking. ✅ |
 | 19 | [Count and Say](https://leetcode.com/problems/count-and-say/) | Medium | [Python](strings/count-and-say.py) | ✅ |
+| 20 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [Python](backtracking/combination-sum.py) | ✅ |
+| 21 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | Hard | [Python](arrays/first-missing-positive.py) | ✅ |
