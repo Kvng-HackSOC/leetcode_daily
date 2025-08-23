@@ -34,3 +34,4 @@
 | 20 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [Python](backtracking/combination-sum.py) | ✅ |
 | 20 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | [Python](arrays/trapping-rain-water.py) | ✅ |
 | 21 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | Medium | [Python](math/multiply-strings.py) | ✅ |
+| 22 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | Hard | [Python](strings/wildcard-matching.py) | ✅ |
