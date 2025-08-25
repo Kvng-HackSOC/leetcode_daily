@@ -36,3 +36,4 @@
 | 21 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | Medium | [Python](math/multiply-strings.py) | ✅ |
 | 22 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | Hard | [Python](strings/wildcard-matching.py) | ✅ |
 | 23 | [Permutations](https://leetcode.com/problems/permutations/) | Medium | [Python](backtracking/permutations.py) | ✅ |
+| 24 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | [Python](math/pow.py) | ✅ |
