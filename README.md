@@ -40,3 +40,4 @@
 | 25 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [Python](strings/group-anagrams.py) | ✅ |
 | 26 | [N-Queens](https://leetcode.com/problems/n-queens/) | Hard | [Python](backtracking/n-queens.py) | ✅ |
 | 26 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | Hard | [Python](backtracking/n-queens-ii.py) | ✅ |
+| 27 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | [Python](dynamic-programming/maximum-subarray.py) | ✅ |
