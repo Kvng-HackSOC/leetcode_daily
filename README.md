@@ -41,3 +41,5 @@
 | 26 | [N-Queens](https://leetcode.com/problems/n-queens/) | Hard | [Python](backtracking/n-queens.py) | ✅ |
 | 26 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | Hard | [Python](backtracking/n-queens-ii.py) | ✅ |
 | 27 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | [Python](dynamic-programming/maximum-subarray.py) | ✅ |
+| 28 | [Jump Game](https://leetcode.com/problems/jump-game/) | Medium | [Python](dynamic-programming/jump-game.py) | ✅ |
+| 29 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [Python](intervals/merge-intervals.py) | ✅ |
