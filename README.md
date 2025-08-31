@@ -43,3 +43,4 @@
 | 27 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | [Python](dynamic-programming/maximum-subarray.py) | ✅ |
 | 28 | [Jump Game](https://leetcode.com/problems/jump-game/) | Medium | [Python](dynamic-programming/jump-game.py) | ✅ |
 | 29 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [Python](intervals/merge-intervals.py) | ✅ |
+| 30 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | Medium | [Python](arrays/insert-interval.py) | ✅ |
