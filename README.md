@@ -44,3 +44,5 @@
 | 28 | [Jump Game](https://leetcode.com/problems/jump-game/) | Medium | [Python](dynamic-programming/jump-game.py) | ✅ |
 | 29 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [Python](intervals/merge-intervals.py) | ✅ |
 | 30 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | Medium | [Python](arrays/insert-interval.py) | ✅ |
+| 31 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | Medium | [Python](arrays/spiral-matrix-ii.py) | ✅ |
+| 32 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | Hard | [Python](arrays/permutation-sequence.py) | ✅ |
