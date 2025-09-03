@@ -46,3 +46,4 @@
 | 30 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | Medium | [Python](arrays/insert-interval.py) | ✅ |
 | 31 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | Medium | [Python](arrays/spiral-matrix-ii.py) | ✅ |
 | 32 | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | Hard | [Python](arrays/permutation-sequence.py) | ✅ |
+| 33 | [Rotate List](https://leetcode.com/problems/rotate-list/) | Medium | [Python](arrays/rotate-list.py) | ✅ |
