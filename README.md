@@ -49,3 +49,4 @@
 | 33 | [Rotate List](https://leetcode.com/problems/rotate-list/) | Medium | [Python](arrays/rotate-list.py) | ✅ |
 | 34 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Medium | [Python](arrays/minimum-path-sum.py) | ✅ |
 | 35 | [Valid Number](https://leetcode.com/problems/valid-number/) | Hard | [Python](arrays/valid-number.py) | ✅ |
+| 36 | [Text Justification](https://leetcode.com/problems/text-justification/) | Hard | [Python](arrays/text-justification.py) | ✅ |
