@@ -50,3 +50,4 @@
 | 34 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Medium | [Python](arrays/minimum-path-sum.py) | ✅ |
 | 35 | [Valid Number](https://leetcode.com/problems/valid-number/) | Hard | [Python](arrays/valid-number.py) | ✅ |
 | 36 | [Text Justification](https://leetcode.com/problems/text-justification/) | Hard | [Python](arrays/text-justification.py) | ✅ |
+| 37 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | Medium | [Python](arrays/simplify-path.py) | ✅ |
