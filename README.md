@@ -51,3 +51,4 @@
 | 35 | [Valid Number](https://leetcode.com/problems/valid-number/) | Hard | [Python](arrays/valid-number.py) | ✅ |
 | 36 | [Text Justification](https://leetcode.com/problems/text-justification/) | Hard | [Python](arrays/text-justification.py) | ✅ |
 | 37 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | Medium | [Python](arrays/simplify-path.py) | ✅ |
+| 38 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | Hard | [Python](dp/edit-distance.py) | ✅ |
