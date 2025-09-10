@@ -52,3 +52,4 @@
 | 36 | [Text Justification](https://leetcode.com/problems/text-justification/) | Hard | [Python](arrays/text-justification.py) | ✅ |
 | 37 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | Medium | [Python](arrays/simplify-path.py) | ✅ |
 | 38 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | Hard | [Python](dp/edit-distance.py) | ✅ |
+| 39 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | [Python](arrays/search-2d-matrix.py) | ✅ |
