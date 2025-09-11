@@ -54,3 +54,4 @@
 | 38 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | Hard | [Python](dp/edit-distance.py) | ✅ |
 | 39 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | [Python](arrays/search-2d-matrix.py) | ✅ |
 | 40| [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [Python](arrays/sort-colors.py) | ✅ |
+| 41 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | [Python](arrays/minimum-window-substring.py) | ✅ |
