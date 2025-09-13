@@ -56,3 +56,4 @@
 | 40| [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [Python](arrays/sort-colors.py) | ✅ |
 | 41 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | [Python](arrays/minimum-window-substring.py) | ✅ |
 | 42 | [Combinations](https://leetcode.com/problems/combinations/) | Medium | [Python](backtracking/combinations.py) | ✅ |
+| 43 | [Subsets](https://leetcode.com/problems/subsets/) | Medium | [Python](backtracking/subsets.py) | ✅ |
