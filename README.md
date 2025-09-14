@@ -58,3 +58,4 @@
 | 42 | [Combinations](https://leetcode.com/problems/combinations/) | Medium | [Python](backtracking/combinations.py) | ✅ |
 | 43 | [Subsets](https://leetcode.com/problems/subsets/) | Medium | [Python](backtracking/subsets.py) | ✅
 | 44 | [Word Search](https://leetcode.com/problems/word-search/) | Medium | [Python](backtracking/word-search.py) | ✅ | |
+| 45 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard | [Python](stack/largest-rectangle-histogram.py) | ✅ |
