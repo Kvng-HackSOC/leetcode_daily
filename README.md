@@ -63,3 +63,4 @@
 | 43 | [Partition List](https://leetcode.com/problems/partition-list/) | Medium | [Python](linked-list/partition-list.py) | ✅ |
 | 44 | [Scramble String](https://leetcode.com/problems/scramble-string/) | Hard | [Python](recursion/scramble-string.py) | ✅ |
 | 45 | [Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) | Medium | [Python](design/food-rating-system.py) | ✅ |
+| 46  | [Gray Code](https://leetcode.com/problems/gray-code/) | Medium | [Python](backtracking/gray-code.py) | ✅ |
