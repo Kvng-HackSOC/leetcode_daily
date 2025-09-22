@@ -66,3 +66,4 @@
 | 46  | [Gray Code](https://leetcode.com/problems/gray-code/) | Medium | [Python](backtracking/gray-code.py) | ✅ |
 | 47 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | Medium | [Python](dynamic_programming/decode-ways.py) | ✅ |
 | 46 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | Medium | [Python](backtracking/restore-ip-addresses.py) | ✅ |
+| 46 | [Scramble String](https://leetcode.com/problems/scramble-string/) | Hard | [Python](strings/scramble_string.py) | ✅ |
