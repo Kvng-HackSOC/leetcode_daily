@@ -68,3 +68,4 @@
 | 48 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | Medium | [Python](backtracking/restore-ip-addresses.py) | ✅ |
 | 49 | [Scramble String](https://leetcode.com/problems/scramble-string/) | Hard | [Python](strings/scramble_string.py) | ✅ |
 | 50 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | Medium | [Python](strings/interleaving_string.py) | ✅ |
+| 51 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | [Python](trees/validate-bst.py) | ✅ |
