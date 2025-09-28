@@ -72,3 +72,4 @@
 | 52 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | Medium | [Python](trees/recover-binary-search-tree.py) | ✅ |
 | 53 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | [Python](trees/level-order-traversal.py) | ✅ |
 | 54 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | Medium | [Python](trees/zigzag-level-order.py) | ✅ |
+| 55 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium | [Python](trees/build-tree.py) | ✅ |
