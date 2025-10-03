@@ -77,3 +77,4 @@
 | 57 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | Medium | [Python](trees/flatten-binary-tree.py) | ✅ |
 | 58 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | Hard | [Python](dp/distinct-subsequences.py) | ✅ |
 | 59 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | Medium | [Python](trees/populate-next-right.py) | ✅ |
+| 60 | [Gray Code](https://leetcode.com/problems/gray-code/) | Medium | [Python](bit-manipulation/gray-code.py) | ✅ |
