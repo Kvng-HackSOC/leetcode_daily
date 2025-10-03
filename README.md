@@ -78,3 +78,4 @@
 | 58 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | Hard | [Python](dp/distinct-subsequences.py) | ✅ |
 | 59 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | Medium | [Python](trees/populate-next-right.py) | ✅ |
 | 60 | [Gray Code](https://leetcode.com/problems/gray-code/) | Medium | [Python](bit-manipulation/gray-code.py) | ✅ |
+| 61 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [Python](arrays/merge-sorted-array.py) | ✅ |
