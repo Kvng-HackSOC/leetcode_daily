@@ -80,3 +80,4 @@
 | 60 | [Gray Code](https://leetcode.com/problems/gray-code/) | Medium | [Python](bit-manipulation/gray-code.py) | ✅ |
 | 61 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [Python](arrays/merge-sorted-array.py) | ✅ |
 | 62 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | Medium | [Python](backtracking/subsets-ii.py) | ✅ |
+| 63 | [Triangle](https://leetcode.com/problems/triangle/) | Medium | [Python](dynamic_programming/triangle.py) | ✅ |
