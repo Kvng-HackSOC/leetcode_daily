@@ -81,3 +81,4 @@
 | 61 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [Python](arrays/merge-sorted-array.py) | ✅ |
 | 62 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | Medium | [Python](backtracking/subsets-ii.py) | ✅ |
 | 63 | [Triangle](https://leetcode.com/problems/triangle/) | Medium | [Python](dynamic_programming/triangle.py) | ✅ |
+| 64 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard | [Python](trees/binary-tree-maximum-path-sum.py) | ✅ |
