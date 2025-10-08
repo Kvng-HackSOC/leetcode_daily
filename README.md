@@ -83,3 +83,4 @@
 | 63 | [Triangle](https://leetcode.com/problems/triangle/) | Medium | [Python](dynamic_programming/triangle.py) | ✅ |
 | 64 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard | [Python](trees/binary-tree-maximum-path-sum.py) | ✅ |
 | 65 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | Hard | [Python](graphs/word-ladder.py) | ✅ |
+| 66 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | [Python](arrays/longest-consecutive-sequence.py) | ✅ |
