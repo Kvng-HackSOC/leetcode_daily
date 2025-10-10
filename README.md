@@ -85,3 +85,4 @@
 | 65 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | Hard | [Python](graphs/word-ladder.py) | ✅ |
 | 66 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | [Python](arrays/longest-consecutive-sequence.py) | ✅ |
 | 67 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | Medium | [Python](trees/sum-root-to-leaf-numbers.py) | ✅ |
+| 58 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | Medium | [Python](graphs/surrounded-regions.py) | ✅ |
