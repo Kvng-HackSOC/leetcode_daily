@@ -89,3 +89,4 @@
 | 69 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | Medium | [Python](backtracking/palindrome-partitioning.py) | ✅ |
 | 70 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | Medium | [Python](graphs/clone-graph.py) | ✅ |
 | 71 | [Gas Station](https://leetcode.com/problems/gas-station/) | Medium | [Python](greedy/gas-station.py) | ✅ |
+| 72 | [Candy](https://leetcode.com/problems/candy/) | Hard | [Python](greedy/candy.py) | ✅ |
