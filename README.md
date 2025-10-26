@@ -90,4 +90,5 @@
 | 70 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | Medium | [Python](graphs/clone-graph.py) | ✅ |
 | 71 | [Gas Station](https://leetcode.com/problems/gas-station/) | Medium | [Python](greedy/gas-station.py) | ✅ |
 | 72 | [Candy](https://leetcode.com/problems/candy/) | Hard | [Python](greedy/candy.py) | ✅ |
-| 63 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | Medium | [Python](linked_list/copy-list-with-random-pointer.py) | ✅ |
+| 73 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | Medium | [Python](linked_list/copy-list-with-random-pointer.py) | ✅ |
+| 74 | [Word Break](https://leetcode.com/problems/word-break/) | Medium | [Python](dynamic_programming/word-break.py) | ✅ |
