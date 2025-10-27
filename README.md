@@ -92,3 +92,4 @@
 | 72 | [Candy](https://leetcode.com/problems/candy/) | Hard | [Python](greedy/candy.py) | ✅ |
 | 73 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | Medium | [Python](linked_list/copy-list-with-random-pointer.py) | ✅ |
 | 74 | [Word Break](https://leetcode.com/problems/word-break/) | Medium | [Python](dynamic_programming/word-break.py) | ✅ |
+| 75 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Medium | [Python](linked_list/reorder-list.py) | ✅ |
