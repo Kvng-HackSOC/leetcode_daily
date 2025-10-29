@@ -94,3 +94,4 @@
 | 74 | [Word Break](https://leetcode.com/problems/word-break/) | Medium | [Python](dynamic_programming/word-break.py) | ✅ |
 | 75 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Medium | [Python](linked_list/reorder-list.py) | ✅ |
 | 76 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | Medium | [Python](linked-list/lru-cache.py) | ✅ |
+| 77 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | Hard | [Python](hashmap/max-points-on-a-line.py) | ✅ |
