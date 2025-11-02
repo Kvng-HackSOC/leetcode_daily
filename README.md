@@ -97,3 +97,4 @@
 | 77 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | Hard | [Python](hashmap/max-points-on-a-line.py) | ✅ |
 | 78 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | Medium | [Python](dynamic_programming/interleaving-string.py) | ✅ |
 | 79 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | [Python](stacks/evaluate_reverse_polish_notation.py) | ✅ |
+| 80 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | [Python](strings/reverse_words_in_a_string.py) | ✅ |
