@@ -98,3 +98,4 @@
 | 78 | [Interleaving String](https://leetcode.com/problems/interleaving-string/) | Medium | [Python](dynamic_programming/interleaving-string.py) | ✅ |
 | 79 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | [Python](stacks/evaluate_reverse_polish_notation.py) | ✅ |
 | 80 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | [Python](strings/reverse_words_in_a_string.py) | ✅ |
+| 81 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | Medium | [Python](dynamic_programming/maximum_product_subarray.py) | ✅ |
