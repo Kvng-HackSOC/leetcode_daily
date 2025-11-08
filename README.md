@@ -100,3 +100,4 @@
 | 80 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | [Python](strings/reverse_words_in_a_string.py) | ✅ |
 | 81 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | Medium | [Python](dynamic_programming/maximum_product_subarray.py) | ✅ |
 | 82 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | [Python](binary_search/find_min_in_rotated_sorted_array.py) | ✅ |
+| 83 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Medium | [Python](binary_search/find_peak_element.py) | ✅ |
