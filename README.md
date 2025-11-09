@@ -102,3 +102,4 @@
 | 82 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | [Python](binary_search/find_min_in_rotated_sorted_array.py) | ✅ |
 | 83 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Medium | [Python](binary_search/find_peak_element.py) | ✅ |
 | 84 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | Medium | [Python](sorting/maximum_gap.py) | ✅ |
+| 74 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | Medium | [Python](strings/compare_version_numbers.py) | ✅ |
