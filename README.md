@@ -103,3 +103,4 @@
 | 83 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Medium | [Python](binary_search/find_peak_element.py) | ✅ |
 | 84 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | Medium | [Python](sorting/maximum_gap.py) | ✅ |
 | 85 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | Medium | [Python](strings/compare_version_numbers.py) | ✅ |
+| 86 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | Medium | [Python](math/fraction_to_recurring_decimal.py) | ✅ |
