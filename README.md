@@ -105,3 +105,4 @@
 | 85 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | Medium | [Python](strings/compare_version_numbers.py) | ✅ |
 | 86 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | Medium | [Python](math/fraction_to_recurring_decimal.py) | ✅ |
 | 87 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | Medium | [Python](maths/factorial_trailing_zeroes.py) | ✅ |
+| 88 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | Medium | [Python](trees/bst_iterator.py) | ✅ |
