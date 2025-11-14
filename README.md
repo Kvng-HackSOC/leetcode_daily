@@ -106,3 +106,4 @@
 | 86 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | Medium | [Python](math/fraction_to_recurring_decimal.py) | ✅ |
 | 87 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | Medium | [Python](maths/factorial_trailing_zeroes.py) | ✅ |
 | 88 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | Medium | [Python](trees/bst_iterator.py) | ✅ |
+| 89 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | Hard | [Python](dynamic_programming/dungeon_game.py) | ✅ |
