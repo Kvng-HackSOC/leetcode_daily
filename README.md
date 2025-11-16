@@ -107,3 +107,4 @@
 | 87 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | Medium | [Python](maths/factorial_trailing_zeroes.py) | ✅ |
 | 88 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | Medium | [Python](trees/bst_iterator.py) | ✅ |
 | 89 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | Hard | [Python](dynamic_programming/dungeon_game.py) | ✅ |
+| 90 | [Largest Number](https://leetcode.com/problems/largest-number/) | Medium | [Python](sorting/largest_number.py) | ✅ |
