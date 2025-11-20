@@ -108,3 +108,4 @@
 | 88 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | Medium | [Python](trees/bst_iterator.py) | ✅ |
 | 89 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | Hard | [Python](dynamic_programming/dungeon_game.py) | ✅ |
 | 90 | [Largest Number](https://leetcode.com/problems/largest-number/) | Medium | [Python](sorting/largest_number.py) | ✅ |
+| 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | Medium | [Python](strings/repeated_dna_sequences.py) | ✅ |
